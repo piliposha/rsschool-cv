@@ -5,11 +5,11 @@
     + Phone number/Telegram - +375(33) 3311796
     + Discord: piliposha(@piliposha)
 1. My main aim in RS School is to get as much experience in front-end development as possible. On the 1-th year of studying in Economic University I found programming very interesting. Much more interesting, than economics! So I started exploring this sphere and decided, that RS School would be a great helper for me in achieving my goals. In future I'm going to become a true and serious web-developer, who is always in trend and knows all the innovations in the world of web-development.
-_**1. Skills:**_
+1. _**Skills:**_
     + HTML
     + CSS
     + JS
-_**1. Education:**_
+1. _**Education:**_
     + [Codecademy HTML/CSS/JS courses](https://www.codecademy.com/piliposha#completed)
-_**1. English:**_
+1. _**English:**_
     + Intermediate
