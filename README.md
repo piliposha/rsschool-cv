@@ -1,1 +1,1 @@
-https://piliposha.github.io/rsschool-cv
+https://piliposha.github.io/rsschool-cv/cv
