@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    background: url(img/BodyFon.jpg);
+    color: #000000;
+    font-size: 1em;
+    font-family: 'News Cycle', sans-serif;
+}
+li {
+    text-align: left;
+    padding: 5px;
+}
+ul {
+    border: 1px solid silver;
+    background-color: rgba(252, 136, 136, 0.5);
+    border-radius: 1em;
+
+}
+img {
+    text-align: left;
+    width: 200px;
+    height: 200px;
+    border: 2px solid rgb(250, 255, 255);
+    border-radius: 15em;
+}
