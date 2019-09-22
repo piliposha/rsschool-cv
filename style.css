@@ -4,6 +4,8 @@ body {
     color: #000000;
     font-size: 1em;
     font-family: 'News Cycle', sans-serif;
+    display: flex;
+	justify-content: center;
 }
 li {
     text-align: left;
