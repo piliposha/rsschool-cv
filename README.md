@@ -1,1 +1,1 @@
-https://piliposha.github.io/rsschool-cv/cv
+My CV template
