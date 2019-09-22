@@ -1,9 +1,26 @@
+html {
+    justify-content: center;
+    display: grid;
+}
+.container {
+    margin: 0 auto;
+    justify-content: center;
+    width: 1024px;
+    
+}
+header {
+    margin: top;
+    text-align: center;
+}
 body {
     text-align: center;
     background: url(img/BodyFon.jpg);
     color: #000000;
     font-size: 1em;
     font-family: 'News Cycle', sans-serif;
+    display: flex;
+    justify-content: center;
+    
 }
 li {
     text-align: left;
